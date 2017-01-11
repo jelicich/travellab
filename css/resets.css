@@ -1,0 +1,77 @@
+body,html{
+	margin: 0;
+	padding: 0;
+}
+/*nav reset*/ 
+nav.navbar{
+	margin: 0;
+    border-radius: 0;
+    border: none;
+    background: none;
+    margin-bottom: -5px;
+}
+nav.navbar div.container-fluid{
+	padding: 0;
+	margin: 0;
+	width: 100%;
+}
+nav.navbar div.container-fluid div.navbar-collapse{
+	padding: 0;
+	width: 100%;
+}
+nav.navbar div.container-fluid div.navbar-collapse ul.nav li a{
+	padding: 0;
+}
+/*nav.navbar div.container-fluid div.navbar-collapse ul.nav li.dropdown:hover .dropdown-menu{
+	display: block;
+    margin-top: 0; 
+}*/
+nav.navbar div.container-fluid div.navbar-collapse ul.nav li.open>a{
+	background: none;
+}
+/*nav.navbar div.container-fluid div.navbar-collapse ul.nav li.open ul.dropdown-menu {
+    display: none;
+}*/
+nav.navbar div.container-fluid div.navbar-collapse ul.nav li.dropdown ul.dropdown-menu{
+	background: none;
+    border: none;
+    border-radius: 0;
+    box-shadow: none;
+    padding: 0;
+}
+nav.navbar div.container-fluid div.navbar-collapse ul.nav li.dropdown ul.dropdown-menu li a{
+	background: none;
+}
+/**/
+
+/*Footer nav*/
+footer .nav a{
+	padding: 0;
+	display: inline-block;
+    width: auto;
+}
+footer .nav a:hover,
+footer .nav a:active,
+footer .nav a:focus,
+footer .nav .open a,
+footer .nav .open > a{
+	background: none !important;
+}
+
+footer .nav .dropdown-menu{
+	background: none;
+    margin-left: 10px;
+    margin-bottom: 5px;
+    position: relative;
+    padding: 0;
+}
+
+.bx-wrapper .bx-viewport{
+	-moz-box-shadow: none;
+	-webkit-box-shadow: none; 
+	box-shadow: none; 
+	border: none; 
+	background: none; 
+	left: 0;
+}
+	
