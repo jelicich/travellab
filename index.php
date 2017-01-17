@@ -107,7 +107,8 @@
 							<a href="trip-tailor.php">
 								<h1>Tailor-Made</h1>
 								<img src="img/home-art-1.jpg" alt="Tailor Made">
-								<p>¿Desea que en su recorrido por la ciudad visitemos algún sitio específico? ¿Le gustaría combinar dos itinerarios en uno? ¿Quiere realizar una visita pormenorizada por el cementerio de Recoleta? ¿Está interesado en un safari fotográfico por la jungla porteña? Contáctese con uno de nuestros expertos y cuéntele sus deseos.</p>
+								<p>Creamos experiencias de viaje a la medida de sus necesidades.  <br>
+								Nuestro experimentado equipo de guías y proveedores nos permite trabajar en la satisfacción de los intereses particulares de sus clientes con propuestas especiales y novedosas.</p>
 							</a>
 						</article>
 					</div>
@@ -117,27 +118,30 @@
 							<a href="trip-themed.php">
 								<h1>Temáticos</h1>
 								<img src="img/home-art-2.jpg" alt="Temáticos">
-								<p>¿Desea que en su recorrido por la ciudad visitemos algún sitio específico? ¿Le gustaría combinar dos itinerarios en uno? ¿Quiere realizar una visita pormenorizada por el cementerio de Recoleta? ¿Está interesado en un safari fotográfico por la jungla porteña? Contáctese con uno de nuestros expertos y cuéntele sus deseos.</p>
+								<p>Recorridos temáticos especialmente diseñados para ofrecer una exploración cultural auténtica en cada experiencia de viaje.<br>
+								Nuestra larga trayectoria como guías turísticos nos permite ofrecer los mejores destinos dentro de las siguientes temáticas: Históricos, Gastronómicos y vinos, Artes y festivales.</p>
 							</a>								
 						</article>
 					</div>
 					
 					<div class="callout">
 						<article>
-							<a href="trip-tailor.php">
+							<a href="trip-regions.php">
 								<h1>Regiones</h1>
 								<img src="img/home-art-3.jpg" alt="Regiones">
-								<p>¿Desea que en su recorrido por la ciudad visitemos algún sitio específico? ¿Le gustaría combinar dos itinerarios en uno? ¿Quiere realizar una visita pormenorizada por el cementerio de Recoleta? ¿Está interesado en un safari fotográfico por la jungla porteña? Contáctese con uno de nuestros expertos y cuéntele sus deseos.</p>	
+								<p>Experiencias regionales únicas diseñadas por los guías más expertos.<br>
+								Nuestro profesional  equipo de guías ofrece su conocimiento e invaluable experiencia en el  en el desarrollo de originales y exclusivos recorridos por las regiones de Asia Central (ruta de la seda), Puna, Toscana y Península Ibérica.</p>
 							</a>								
 						</article>
 					</div>
 					
 					<div class="callout">
 						<article>
-							<a href="trip-themed.php">
+							<a href="trip-cataluna.php">
 								<h1>Cataluña</h1>
 								<img src="img/home-art-4.jpg" alt="Cataluña">
-								<p>¿Desea que en su recorrido por la ciudad visitemos algún sitio específico? ¿Le gustaría combinar dos itinerarios en uno? ¿Quiere realizar una visita pormenorizada por el cementerio de Recoleta?</p>
+								<p>Cataluña, sede de nuestra agencia en Barcelona. <br>
+								Como anfitriones de una de las ciudades más visitadas en Europa, ofrecemos una amplia oferta de servicios para visitar uno de los destinos con mayor cantidad de atractivos turísticos de toda España.</p>
 							</a>							
 						</article>
 					</div>

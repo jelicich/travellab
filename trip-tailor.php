@@ -104,20 +104,20 @@
 					<h1>Tailor-made</h1>
 					<div class="col-layout space-between main-text">
 						<div>
-							<p>Nosotros no solo diseñamos y producimos viajes, creamos experiencias únicas. Nuestra empresa cuenta especialmente con la estructura adecuada para el desarrollo del producto Tailor Made que su agencia necesita. <br>
-							Contamos con una red de proveedores que se extiende por todo el continente europeo:
-							<ul>
-								<li>Pasajes aéreos</li>
-								<li>Reservas de hoteles</li>
-								<li>Autobuses</li>
-								<li>Guías locales especializados</li>
-								<li>Pasajes en transporte maritivo y/o fluvial</li>
-								<li>Reservas en museos y monumentos</li>
-								<li>Restaurantes y espectáculos</li>
-							</ul>
-							</p>
-							<p>Contamos con todos los elementos que componen el viaje para armarlo según su necesidad. Sobre todo contamos con el factor esencial que amalgama los demás componentes: el conocimiento del terreno. Contamos en nuestro equipo con guías y ex guías con muchísima experiencia; el mejor plantel de guías en español que pueda encontrarse en Europa. <br>
-								Por eso podemos generar propuestas diferentes y especiales; concebidas para el disfrute y el aprovechamiento óptimo del tiempo; asegurando la satisfacción del viajero.</p>
+							<p>En Travel Lab no solo diseñamos y producimos viajes, creamos experiencias únicas. Nuestra empresa cuenta especialmente con la estructura adecuada para el desarrollo del producto Tailor-Made que su agencia necesita.</p>
+							<p>Ofrecemos todos los elementos que componen el viaje para armarlo de acuerdo a sus intereses.Trabajamos con una red de proveedores que se extiende por todo el continente europeo, permitiéndonos garantizar la calidad de los siguientes servicios:</p>
+
+								<ul>
+									<li>Pasajes aéreos</li>
+									<li>Reservas de hoteles</li>
+									<li>Autobuses</li>
+									<li>Guías locales especializados</li>
+									<li>Pasajes en transporte maritivo y/o fluvial</li>
+									<li>Reservas en museos y monumentos</li>
+									<li>Audioguías</li>
+									<li>Restaurantes y espectáculos</li>
+								</ul>
+							<p>Además, nos destacamos por contar con el factor esencial que amalgama los demás componentes: el conocimiento del terreno. Nuestro selecto equipo de guías y ex-guías en español con muchísimos años de experiencia, constituyen el mejor plantel que pueda encontrarse en Europa. Por esto podemos generar propuestas diferentes y especiales, concebidas para el disfrute y el aprovechamiento óptimo del tiempo asegurando la satisfacción del viajero.</p>
 						</div>
 						<div>
 							<img src="img/tailor.jpg" alt="">

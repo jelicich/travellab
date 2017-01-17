@@ -147,6 +147,26 @@ travelLab.Gallery = $.extend(true, {}, travelLab.Page, {
 	}
 });
 
+travelLab.Contact = $.extend(true, {}, travelLab.Page, {
+	init: function(){
+		$.getScript("https://maps.googleapis.com/maps/api/js?key=AIzaSyCvvalsUvBLL-lZ2lXx6Iawari_l8a-ST4", function(){
+			travelLab.Contact.initMap();
+		});
+	},
+	initMap: function(){
+		var address = {lat: 48.202524, lng: 16.405281};
+		var map = new google.maps.Map(document.getElementById('map'), {
+			zoom: 4,
+			center: address
+		});
+		var marker = new google.maps.Marker({
+			position: address,
+			map: map
+		});
+		map.setZoom(15);
+	}
+});
+
 travelLab.uiHandlers = {};
 
 travelLab.uiHandlers.modal = {
